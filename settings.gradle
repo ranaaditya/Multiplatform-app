@@ -1,2 +1,3 @@
 rootProject.name='kt-mpp-android-ios'
 include ':app'
+include ':SharedkotlinCode'
