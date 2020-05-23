@@ -1,0 +1,3 @@
+rootProject.name = 'ktmpp'
+
+include ':app'
